@@ -14,7 +14,8 @@ nav{
 }
 .color-type{
   display: flex;
-  width: 130px;
+  width: 150px;
+  gap: 40px;
   justify-content: space-between;
 }
 main{
