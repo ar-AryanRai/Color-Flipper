@@ -2,7 +2,7 @@
 
 **Color-Picker** is a fun and interactive project that changes the background color of the page to a randomly generated color every time the button is clicked. Great for understanding DOM manipulation and user interaction using Vanilla JavaScript!
 
-🌐 **Live Demo**: [ar-aryanrai.github.io/Color-Flipper](https://ar-aryanrai.github.io/Color-Flipper/)
+🌐 **Live Demo**: [Click here to visit Color-Flipper](https://ar-aryanrai.github.io/Color-Flipper/)
 
 ---
 
